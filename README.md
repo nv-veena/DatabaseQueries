@@ -19,3 +19,10 @@ the right of the column to be displayed in result
 *** EarningsOfEmployees.sql - Uses Where clause for MSSQL with count(*) 
 
 *** ShortestDistance.sql - Uses ABS() to calculate abosulte difference of 2 columns
+
+*** NewCompanies.sql - Data spread across 5 different tables for Org heirarchy. An example of simple join 
+
+*** WeatherObservations.sql - Finding a column with Median value using count of existing records
+
+*** SalesAnalysis.sql - Use of MIN and MAX on date columns with HAVING clause 
+
