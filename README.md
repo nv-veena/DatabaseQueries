@@ -1,4 +1,7 @@
 # DatabaseQueries
+
+[Oracle Single Row Functions](https://github.com/nv-veena/DatabaseQueries/blob/master/SQL_Queries.docx)
+
 This Repository contains database related exercies
 
 *** RankScores.sql -- Uses DENSE_RANK () Over option provides Ranking which doesnt skip Ranks
